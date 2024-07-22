@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://technology-winter.typeflo.io/$1"
+ }
+  ]
+}
